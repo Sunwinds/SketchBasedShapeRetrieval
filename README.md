@@ -3,6 +3,6 @@
 
 Language: C++
 IDLE: Visual Studio using 
-Dependencies: Qt 4.8.x, OpenCV 2.x.
+Dependencies: Qt 4.8.x, OpenCV 2.x and libqglviewer.
 OS: Windows 7/8/10
 
